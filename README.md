@@ -4,7 +4,6 @@
 >
 
 ## ✨ What We Build
----
 - 🌈 Enterprise-class UI Design System.
 - 📦 High-quality React UI components Library.
 - 🔖 Using StroyBook and building UIs in isolation.
