@@ -11,3 +11,8 @@
 - 🛡 Written in TypeScript with predictable static types.
 - 🌍 Internationalization out of the box.
 - 🎨 Theme customization.
+## 🗓️ To do
+
+- [ ]  Setting Up the development environment.
+- [ ]  Decide which bundler to use.
+- [ ]  Create Contributor Guidelines.
