@@ -12,6 +12,6 @@
 - 🎨 Theme customization.
 ## 🗓️ To do
 
-- [*]  Setting Up the development environment.
-- [*]  Decide which bundler to use.
+- [x]  Setting Up the development environment.
+- [x]  Decide which bundler to use.
 - [ ]  Create Contributor Guidelines.
